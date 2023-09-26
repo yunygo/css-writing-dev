@@ -1,0 +1,11 @@
+{
+  "name": "css-writing-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:scss": "sass scss/main.scss style/style.css -w"
+  },
+  "author": "",
+  "license": "ISC"
+}
